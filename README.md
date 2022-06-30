@@ -1,2 +1,2 @@
 # Clock-Toy
-Progress bar clock
+Progress bar clock, written in python. 
